@@ -1,3 +1,5 @@
 common/conf.py
 .idea/
 *.pyc
+.gitignore
+conf.*
