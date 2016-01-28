@@ -1,5 +1,5 @@
-common/conf.py
-.idea/
 *.pyc
-.gitignore
-conf.*
+*.iml
+*.ipr
+*.iws
+.idea/
